@@ -1,0 +1,9 @@
+Docs - https://docs.ramp.network/
+Today's demo code - https://github.com/RampNetwork/0xhack-integration-workshop
+npm package - https://www.npmjs.com/package/@ramp-network/ramp-instant-sdk
+
+
+ 2031  npm install  @ramp-network/ramp-instant-sdk
+ 2032  npm install -g @vue/cli
+ 2033  vue ui
+
