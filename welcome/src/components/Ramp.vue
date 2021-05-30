@@ -1,27 +1,9 @@
 <template>
   <div class="about">
-    <h1>Send us some DAI</h1>
-      <a @click="handleClick()">Click me!</a>
 
 
 <section>
-  <h4>(Advanced) Buy with Ramp Instant</h4>
-  <form id="ramp-instant-form" class="ramp-instant-form">
-    <div>
-      <input id="ramp-instant-amount" type="number" step="0.01" value="10" />
-      <select id="ramp-instant-asset">
-        <option value="ETH">ETH</option>
-        <option value="DAI" selected>DAI</option>
-      </select>
-    </div>
-  <button v-on:click="buy2">Advanced Buy</button>
-
-  </form>
-</section>
-
-<section>
-  <h4>(Simple) buy with Ramp Instant</h4>
-  <button v-on:click="buy">Simple Buy</button>
+  <button v-on:click="buy" variant="danger">Send us some DAI</button>
 </section>
 
 </div>
@@ -106,5 +88,15 @@ li {
 }
 a {
   color: #42b983;
+}
+button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
 </style>

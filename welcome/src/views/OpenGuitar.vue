@@ -5,6 +5,7 @@ OpenGuitar is a project with focus on STEM education (science,
 technology, engineering and math) for children and teenagers from
 disadvantaged backgrounds. 
 
+
 <h3>About Open Guitar</h3>
 The ‘OpenGuitar’ is an experimental guitar that can be assembled in
 small workshops. The instrument building process is designed as an
@@ -23,10 +24,32 @@ spectrum of sound and music making capabilities. Consequently, while
 children engage in musical explorations they learn basic skills in
 computer programming through step-by-step music computing tutorials. 
 
-<img
-src="https://github.com/tgoerke/alasramp/blob/cb4c3a60bb36bab1a3da3d0d2d4f759687dbd1b9/welcome/src/assets/alas.png?raw=true">
+<h3>Want to help?</h3>
+  <h4>Buy some DAI with Ramp Instant</h4>
 
+<p>We plan a workshop where educators and students build their own
+instrument.</p>
+
+<p>
+<b>You can help us compensate for materials cost. 
+We will provide a complete set of parts
+to build-your-own open guitar for people donating over 500 Euros (in DAI).</b>
+</p>
 <Ramp />
+<p>The instrument building process is designed as an engaging and creative
+activity, which teaches a wide range of skills, from 3D design and
+hands-on woodworking to computer aided manufacturing (CAM),
+sensor-robotics and computer programming with a focus on
+the elemental math behind digital signal processing.
+</p>
+<p>
+Ramp is an easy way to buy crypto directly and later send it to us.
+It is an entirely new type of on-ramp users into crypto space and we are
+proud to offer you a solution to give power back educators & musicians.
+</p>
+
+
+
 
   </div>
 </template>
