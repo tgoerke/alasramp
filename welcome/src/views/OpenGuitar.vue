@@ -23,6 +23,9 @@ spectrum of sound and music making capabilities. Consequently, while
 children engage in musical explorations they learn basic skills in
 computer programming through step-by-step music computing tutorials. 
 
+<img
+src="https://github.com/tgoerke/alasramp/blob/cb4c3a60bb36bab1a3da3d0d2d4f759687dbd1b9/welcome/src/assets/alas.png?raw=true">
+
 <Ramp />
 
   </div>
