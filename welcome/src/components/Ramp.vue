@@ -34,8 +34,12 @@ import { RampInstantSDK } from '@ramp-network/ramp-instant-sdk';
   function simple_buy() {
     new RampInstantSDK({
       url: 'https://ri-widget-staging.firebaseapp.com',
+      swapAsset: 'DAI',
+      userAddress: '0xCEEfA7764F7BB3a8D1e23C7F15F3f17d9C8d9395',
+      swapAmount: '10',
+      hostLogoUrl: 
       hostAppName: "Alas Ramp",
-      hostLogoUrl: "https://your.logo/url.png",
+      hostLogoUrl: "https://github.com/tgoerke/alasramp/blob/cb4c3a60bb36bab1a3da3d0d2d4f759687dbd1b9/welcome/src/assets/logo.png",
       variant: "auto",
     }).show();
   }
