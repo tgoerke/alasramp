@@ -33,6 +33,7 @@ import { RampInstantSDK } from '@ramp-network/ramp-instant-sdk';
 
   function simple_buy() {
     new RampInstantSDK({
+      url: 'https://ri-widget-staging.firebaseapp.com',
       hostAppName: "Alas Ramp",
       hostLogoUrl: "https://your.logo/url.png",
       variant: "auto",
