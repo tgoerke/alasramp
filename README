@@ -1,6 +1,6 @@
 ## Alas Ramp 
 
-This is a vuejs app that lets users pay cypto using Ramp.Network (using
+This is a vuejs app that lets users pay crypto using Ramp.Network (using
 Rinkeby testnet). Ramp is an easy way to buy crypto.
 
 The app demonstrates a use case for OpenGuitar. Donors who want to help
