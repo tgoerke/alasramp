@@ -15,8 +15,9 @@ We will conduct more workshops and we will soon be ready to send build-your-own 
 
 Please check the demo video for alas ramp and join the conversation at [metagov](https://gov.near.org/t/proposal-alas-dao-attracting-donors-with-innovative-technology-and-social-educational-drives/1925).
 
-[![Live App Demo](https://img.youtube.com/vi/mrVaAxyQooY/0.jpg)](https://youtu.be/mrVaAxyQooY)
+[![Live App Demo](https://img.youtube.com/vi/8NLMoAKrAks/0.jpg)](https://youtu.be/8NLMoAKrAks)
 
+https://youtu.be/8NLMoAKrAks
 
 ## Docs
 API https://docs.ramp.network/
